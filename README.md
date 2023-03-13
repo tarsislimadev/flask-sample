@@ -1,6 +1,4 @@
-# env
-
-To set up environments.
+# Flask sample
 
 ## License
 
